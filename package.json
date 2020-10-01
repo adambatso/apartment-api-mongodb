@@ -1,0 +1,21 @@
+{
+  "name": "apartment-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://adamBenAharon@bitbucket.org/adamBenAharon/apartment-api.git"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/adamBenAharon/apartment-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.0"
+  }
+}
